@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deprecateds on 关于</title>
-    <link>https://mxr-lee.top/deprecated/</link>
+    <link>https://mxr-lee.top/about/deprecated/</link>
     <description>Recent content in Deprecateds on 关于</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jun 2019 19:14:49 +0800</lastBuildDate>
     
-	<atom:link href="https://mxr-lee.top/deprecated/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mxr-lee.top/about/deprecated/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>(2019-06-03)</title>
-      <link>https://mxr-lee.top/deprecated/depr3/</link>
+      <link>https://mxr-lee.top/about/deprecated/depr3/</link>
       <pubDate>Mon, 03 Jun 2019 19:14:49 +0800</pubDate>
       
-      <guid>https://mxr-lee.top/deprecated/depr3/</guid>
+      <guid>https://mxr-lee.top/about/deprecated/depr3/</guid>
       <description>在3DS MAX和PS逐渐熟练的同时，开始注意ZBrush，那个时候ZBrush还没有中文界面，但任然改变不了我对她的热爱，加上Keyshot的实时渲染，完美</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://mxr-lee.top/deprecated/depr4/</link>
+      <link>https://mxr-lee.top/about/deprecated/depr4/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mxr-lee.top/deprecated/depr4/</guid>
+      <guid>https://mxr-lee.top/about/deprecated/depr4/</guid>
       <description>毕业设计所需，采用Pro/E进行虚拟夹具的装配研究，最终结果不是很满意。CG圈软件开始逐渐了解，C4D,Blender,Maya,Silo,以及一些不知名的建模软件，先后试了个遍</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://mxr-lee.top/deprecated/depr5/</link>
+      <link>https://mxr-lee.top/about/deprecated/depr5/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mxr-lee.top/deprecated/depr5/</guid>
+      <guid>https://mxr-lee.top/about/deprecated/depr5/</guid>
       <description>选用Affinity Design以满足矢量图形设计所需，同时开始使用Rizom UV进行UV拆分，Substance Painter绘制贴图，Marmoset toolbag进行烘焙渲染</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://mxr-lee.top/deprecated/depr6/</link>
+      <link>https://mxr-lee.top/about/deprecated/depr6/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mxr-lee.top/deprecated/depr6/</guid>
+      <guid>https://mxr-lee.top/about/deprecated/depr6/</guid>
       <description>开始接触网站建设，从最开始的免费的PHP空间，到付费购买阿里云ESC轻量服务器，先后采用过Wordpress,Typeho,Emlog,ZBlog等搭建动态网站，后由于私自搭建Youtube镜像网站，被监管部门发现，服务器IP被墙后，转战静态网站，在Hexo,Hugo等静态网站生成器中，选择了Hugo，此站诞生</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://mxr-lee.top/deprecated/depr2/</link>
+      <link>https://mxr-lee.top/about/deprecated/depr2/</link>
       <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
       
-      <guid>https://mxr-lee.top/deprecated/depr2/</guid>
+      <guid>https://mxr-lee.top/about/deprecated/depr2/</guid>
       <description>由于一部动画《武之梦》，开启CG之程，最初的时候下载软件都找不到地址，3DS MAX，PS CC安装从来没有省心过，一路磕磕绊绊地缓慢前进</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://mxr-lee.top/deprecated/depr/</link>
+      <link>https://mxr-lee.top/about/deprecated/depr/</link>
       <pubDate>Fri, 02 Sep 2016 20:46:47 +0200</pubDate>
       
-      <guid>https://mxr-lee.top/deprecated/depr/</guid>
+      <guid>https://mxr-lee.top/about/deprecated/depr/</guid>
       <description>由于机械专业所需，开始接触CAD制图</description>
     </item>
     
